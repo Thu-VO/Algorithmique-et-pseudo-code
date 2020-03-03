@@ -1,0 +1,8 @@
+Début algorithme
+
+demander un nombre
+Pour i de 1 à nombre(par pas de 1), faire
+  afficher "Bienvenue à la wild"
+Fin Pour
+
+Fin algorithme
