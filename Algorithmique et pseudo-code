@@ -1,0 +1,13 @@
+Début achat(Argent, prix)
+
+argent <-- 10euros
+prix d'un bonbon <-- 9euros
+nombre de bonbon maxi <-- 0
+
+tant que (argent - (prix d'un bonbon * nombre de bonbon maxi)) <= Argent
+  nombre de bonbon maxi = nombre de bonbon maxi + 1
+Fin tant que
+
+retourner (ou afficher) nombre de bonbon maxi
+
+Fin achat(Argent, prix)
