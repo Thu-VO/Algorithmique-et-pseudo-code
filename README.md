@@ -1,3 +1,3 @@
 # Algorithmique-et-pseudo-code
-###Exercices
+## Exercices
 ###### https://odyssey.wildcodeschool.com/
